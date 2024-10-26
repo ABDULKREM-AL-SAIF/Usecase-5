@@ -5,6 +5,9 @@ from Jadarat import Jadarat
     
 jadarat = Jadarat()
 
+st.set_page_config(page_title='تحليل لبيانات موقع جدارات')
+
+
 st.markdown("""
 <style>
 body, html {
